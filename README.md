@@ -1,0 +1,2 @@
+# premium-pattern-draft-001-pattern-drafting-block-library
+Tired of losing track of your block variations across scattered files and sticky notes? The Pattern Drafting Block Library gives you a single, searchable home for every block you’ve ever drafted — so you never waste time recreating a dart manipulation or grading adjustment.  This Notion template replaces chaotic folders and notebooks with a structu
